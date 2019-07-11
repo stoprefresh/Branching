@@ -12,6 +12,4 @@
 
 * 'git checkout branchName' -Make 'branchName' the current branch in working directories
 
-* ejbfdjg;odfjbo;dsij
-* ooegweog;sdogjsd;ofjg
-* lgnlsdnfdnvodwvoi
+
