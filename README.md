@@ -11,3 +11,5 @@
 * 'git Branch branchName' -Create branch 'branchName'
 
 * 'git checkout branchName' -Make 'branchName' the current branch in working directories
+
+* ewogewog
