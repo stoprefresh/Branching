@@ -2,4 +2,4 @@
 
 ### Branching Commands
 
-* 'git branch' - List branches
+* 'git branch' - List branches and stuff
