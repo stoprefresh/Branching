@@ -6,4 +6,4 @@
 
 * 'git Branch branchName' -Create branch 'branchName'
 
-* 'git checkout branchName' -Make 'branchName' the current bransch in working directory
+* 'git checkout branchName' -Make 'branchName' the current branch in working directory
